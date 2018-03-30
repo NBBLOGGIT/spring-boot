@@ -9,3 +9,6 @@
 ],"footer":[
 	{"name":"Total Persons:","persons":7,"iconCls":"icon-sum"}sss
 ]}
+
+
+// join
